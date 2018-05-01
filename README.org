@@ -1,0 +1,2 @@
+* PHP coding suite for GNU Emacs
+Emacs is a powerful IDE for PHP.
