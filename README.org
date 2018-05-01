@@ -1,2 +1,13 @@
 * PHP coding suite for GNU Emacs
 Emacs is a powerful IDE for PHP.
+** What is this?
+This package integrates some packages for PHP coding.
+ - php-project (part of PHP Mode)
+ - [[https://github.com/emacs-php/php-runtime.el][php-runtime]] - Emacs runtime bridge to PHP
+ - [[https://github.com/ejmr/php-mode][php-mode]] - Major mode for PHP script
+ - [[http://web-mode.org/][web-mode]] - Major mode for HTML template
+ - [[https://github.com/emacs-php/composer.el][composer.el]] - Interface to [[https://getcomposer.org/][Composer]] (Dependency manager for PHP)
+ - [[https://github.com/nlamirault/phpunit.el][phpunit.el]] - Interface to [[https://phpunit.de/][PHPUnit]] (xUnit testing framework)
+ - [[https://github.com/emacs-php/psysh.el][psysh.el]] - Interface to [[http://psysh.org/][PsySH]] (REPL, interactive debugger)
+ - [[https://github.com/emacs-php/phpstan.el][phpstan.el]] - Interface to [[https://github.com/phpstan/phpstan][PHPStan]] (PHP Static Analysis Tool)
+ - ([[https://github.com/emacs-php/phpactor.el][phpactor.el]]) - Interface to [[http://phpactor.github.io/phpactor/][Phpactor]] (Intelligent completion and refactoring tool)
