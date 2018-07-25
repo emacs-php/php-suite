@@ -1,5 +1,8 @@
 * PHP coding suite for GNU Emacs
 Emacs is a powerful IDE for PHP.
+#+BEGIN_HTML
+<a href="http://feathub.com/emacs-php/php-suite"><img alt="Feature Requests" src="http://feathub.com/emacs-php/php-suite?format=svg"></a>
+#+END_HTML
 ** What is this?
 This package integrates some packages for PHP coding.
  - php-project (part of PHP Mode)
