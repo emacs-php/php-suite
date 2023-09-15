@@ -9,7 +9,8 @@
 
 (script "test" "echo \"Error: no test specified\" && exit 1")
 
-(source "gnu")
+(source 'gnu)
+(source 'melpa)
 
 (depends-on "emacs" "24.3")
 (depends-on "cl-lib" "0.5")
@@ -20,3 +21,5 @@
 (depends-on "phpunit" "0.16")
 (depends-on "psysh" "0.0.3")
 (depends-on "flycheck-phpstan" "0.2.1")
+
+(setq network-security-level 'low)  ; see https://github.com/jcs090218/setup-emacs-windows/issues/156#issuecomment-932956432
