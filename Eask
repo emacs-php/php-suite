@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "php-suite"
          "0.0.1"
          "PHP coding integration suite")
